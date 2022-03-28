@@ -21,5 +21,4 @@ All of the following files are programs written in C:
 | `7-print_chessboard.c` | Prints the chessboard |
 | `8-print_diagsums.c` | Prints the sum of the two diagonals of a square matrix of integers |
 | `9-set_string.c` | Sets the value of a pointer to a char |
-| `101-crackme_password.c` | Contains the password for the `crackme2` executable |
-
+| `101-crackme_password` | It's a flat file which contains the password for the `crackme2` executable |
