@@ -1,30 +1,30 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "main.h"
+#include "holberton.h"
 /**
 * main - multiply 2 numbers as arguments
 * @argc: number of arguments
 * @argv: arguments
 * Return: 0 success
 */
-int main(int argc, char *argv[])
+int main(int num1, char *num2[])
 {
 unsigned long mul;
-int num1, num2;
+int i, j;
 	if (argc != 3)
 	{ printf("Error\n");
 	exit(98); }
-	for (num1 = 1; num1 < argc; num1++)
+	for (i = 1; i < num1; i++)
 	{
-		for (num2 = 0; argv[num1][num2] != '\0'; num2++)
+		for (j = 0; num2[i][j] != '\0'; j++)
 		{
-			if (argv[num1][num2] > 57 || argv[num1][num2] < 48)
+			if (num2[i][j] > 57 || num2[i][j] < 48)
 			{  printf("Error\n");
 			exit(98); }
 		}
 
 	}
-	mul = atol(argv[1]) *  atol(argv[2]);
+	mul = atol(num2[1]) *  atol(num2[2]);
 	printf("%lu\n", mul);
 return (0);
 }
