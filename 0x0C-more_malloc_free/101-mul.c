@@ -59,14 +59,14 @@ void *_calloc(unsigned int nmemb, unsigned int size)
  * Return: nothing
 */
 
-void mul(char *num1, char *num2)
+void mul(char *s1, char *s2)
 {
 	int i, l1, l2, total_l, f_digit, s_digit, res = 0, tmp;
 	char *ptr;
 	void *temp;
 
-	l1 = _length(num1);
-	l2 = _length(num2);
+	l1 = _length(s1);
+	l2 = _length(s2);
 	tmp = l2;
 	total_l = l1 + l2;
 	ptr = _calloc(sizeof(int), total_l);
@@ -81,7 +81,7 @@ void mul(char *num1, char *num2)
 		l2 = tmp;
 		for (l2--; l2 >= 0; l2--)
 		{
-			s_digit = num2[l2] - '0';
+			s_digit = s2[l2] - '0';
 			res += ptr[l2 + l1 + 1] + (f_digit * s_digit);
 			ptr[l1 + l2 + 1] = res % 10;
 			res /= 10;
