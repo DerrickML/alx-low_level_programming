@@ -17,4 +17,4 @@ All of the following files are programs written in C:
 | `3-alloc_grid.c` | Returns a pointer to a 2 dimensional array of integers |
 | `4-free_grid.c` | Frees a 2 dimensional grid previously allocated in the heap memory |
 | `5-argstostr.c` | Concatenates all the arguments of a program |
-| `100-strtow.c` | Splits a string into words |
+| `101-strtow.c` | Splits a string into words |
