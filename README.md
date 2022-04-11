@@ -9,7 +9,7 @@ Module of **Low-level programming** and **algorithm**, carried out during **Full
 * Tested on Ubuntu 20.04 LTS
 
 ## Projects
-All of the following folders are projects done during the studies:
+All of the following folders are projects done so far during the studies:
 
 | Project name | Description |
 | ------------ | ----------- |
