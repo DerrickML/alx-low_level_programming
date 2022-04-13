@@ -9,7 +9,7 @@ Module of **Low-level programming** and **algorithm**, carried out during **Full
 * Tested on Ubuntu 20.04 LTS
 
 ## Projects
-All of the following folders are projects done during the studies:
+All of the following folders are projects done so far during the studies:
 
 | Project name | Description |
 | ------------ | ----------- |
@@ -25,10 +25,13 @@ All of the following folders are projects done during the studies:
 | [`0x09-static_libraries`](https://github.com/DeroMal/alx-low_level_programming/tree/master/0x09-static_libraries) | It aims to learn about static libraries in **C language** |
 | [`0x0A-argc_argv`](https://github.com/DeroMal/alx-low_level_programming/tree/master/0x0A-argc_argv) | It aims to learn about how to use arguments passed to a program in **C language** |
 | [`0x0B-malloc_free`](https://github.com/DeroMal/alx-low_level_programming/tree/master/0x0B-malloc_free) | It aims to learn about automatic and dynamic allocation in **C language** |
-<<<<<<< HEAD
 | [`0x0D-preprocessor`](https://github.com/DeroMal/alx-low_level_programming/tree/master/0x0D-preprocessor) | It aims to learn about how to include guard in the header files and macros in **C language** |
-=======
 | [`0x0C-more_malloc_free`](https://github.com/luischaparroc/holbertonschool-low_level_programming/tree/master/0x0C-more_malloc_free) | It aims to learn about how to use `malloc`, `calloc`, `realloc` and `exit` functions in **C language** |
+<<<<<<< HEAD
 | [`0x0F-function_pointers`](https://github.com/DeroMal/alx-low_level_programming/tree/master/0x0F-function_pointers) | It aims to learn about function pointers in **C language** |
 
 >>>>>>> 7e4728bd79cd18490449c3eaf7161636a725e6e8
+=======
+| [`0x0E-structures_typedef`](https://github.com/DeroMal/alx-low_level_programming/tree/master/0x0E-structures_typedef) | It aims to learn about structures and `typedef` in **C language** |
+
+>>>>>>> ec818857916e6c7d5cad11cfbc81f56a5143f7cb
