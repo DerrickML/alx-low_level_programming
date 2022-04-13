@@ -29,4 +29,6 @@ All of the following folders are projects done during the studies:
 | [`0x0D-preprocessor`](https://github.com/DeroMal/alx-low_level_programming/tree/master/0x0D-preprocessor) | It aims to learn about how to include guard in the header files and macros in **C language** |
 =======
 | [`0x0C-more_malloc_free`](https://github.com/luischaparroc/holbertonschool-low_level_programming/tree/master/0x0C-more_malloc_free) | It aims to learn about how to use `malloc`, `calloc`, `realloc` and `exit` functions in **C language** |
+| [`0x0F-function_pointers`](https://github.com/DeroMal/alx-low_level_programming/tree/master/0x0F-function_pointers) | It aims to learn about function pointers in **C language** |
+
 >>>>>>> 7e4728bd79cd18490449c3eaf7161636a725e6e8
