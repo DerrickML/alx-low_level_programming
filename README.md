@@ -30,10 +30,7 @@ All of the following folders are projects done so far during the studies:
 <<<<<<< HEAD
 | [`0x0F-function_pointers`](https://github.com/DeroMal/alx-low_level_programming/tree/master/0x0F-function_pointers) | It aims to learn about function pointers in **C language** |
 
->>>>>>> 7e4728bd79cd18490449c3eaf7161636a725e6e8
-=======
 | [`0x0E-structures_typedef`](https://github.com/DeroMal/alx-low_level_programming/tree/master/0x0E-structures_typedef) | It aims to learn about structures and `typedef` in **C language** |
 | [`0x10-variadic_functions`](https://github.com/DeroMal/alx-low_level_programming/tree/master/0x10-variadic_functions) | It aims to learn about variadic functions in **C language** |
+| [`0x12-singly_linked_lists`](https://github.com/DeroMal/alx-low_level_programming/tree/master/0x12-singly_linked_lists) | It aims to learn about linked lists in **C language** |
 
-
->>>>>>> ec818857916e6c7d5cad11cfbc81f56a5143f7cb
