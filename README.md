@@ -34,3 +34,4 @@ All of the following folders are projects done so far during the studies:
 | [`0x10-variadic_functions`](https://github.com/DeroMal/alx-low_level_programming/tree/master/0x10-variadic_functions) | It aims to learn about variadic functions in **C language** |
 | [`0x12-singly_linked_lists`](https://github.com/DeroMal/alx-low_level_programming/tree/master/0x12-singly_linked_lists) | It aims to learn about linked lists in **C language** |
 | [`0x13-more_singly_linked_lists`](https://github.com/DeroMal/alx-low_level_programming/tree/master/0x13-more_singly_linked_lists) | It aims to learn about singly linked lists in **C language** |
+| [`0x14-bit_manipulation`](https://github.com/DeroMal/alx-low_level_programming/tree/master/0x14-bit_manipulation) | It aims to learn about how to manipulate bits and use bitwise operators in **C language** |
