@@ -37,3 +37,4 @@ All of the following folders are projects done so far during the studies:
 | [`0x14-bit_manipulation`](https://github.com/DeroMal/alx-low_level_programming/tree/master/0x14-bit_manipulation) | It aims to learn about how to manipulate bits and use bitwise operators in **C language** |
 | [`0x15-file_io`](https://github.com/DeroMal/alx-low_level_programming/tree/master/0x15-file_io) | It aims to learn about how to handle files (open, close, read and write), file descriptors, system calls and file permissions in **C language** |
 | [`0x17-doubly_linked_lists`](https://github.com/DeroMal/alx-low_level_programming/tree/master/0x17-doubly_linked_lists) | It aims to learn about doubly linked list in **C language** |
+| [`0x18-dynamic_libraries`](https://github.com/DeroMal/alx-low_level_programming/tree/master/0x18-dynamic_libraries) | It aims to learn about dynamic and shared libraries in **C language** |
