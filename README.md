@@ -39,4 +39,5 @@ All of the following folders are projects done so far during the studies:
 | [`0x17-doubly_linked_lists`](https://github.com/DeroMal/alx-low_level_programming/tree/master/0x17-doubly_linked_lists) | It aims to learn about doubly linked list in **C language** |
 | [`0x18-dynamic_libraries`](https://github.com/DeroMal/alx-low_level_programming/tree/master/0x18-dynamic_libraries) | It aims to learn about dynamic and shared libraries in **C language** |
 | [`0x1A-hash_tables`](https://github.com/DeroMal/alx-low_level_programming/tree/master/0x1A-hash_tables) | It aims to learn how to implement Hash Tables with **C language** |
-
+| [`0x1B-sorting_algorithms`](https://github.com/DeroMal/alx-low_level_programming/tree/master/0x1B-sorting_algorithms) | It aims to learn about sorting algorithms (bubble sort, insertion sort, selection sort, quick sort and so on) and Big O Notation in **C language** |
+| [`0x1C-makefiles`](https://github.com/DeroMal/alx-low_level_programming/tree/master/0x1C-makefiles) | It aims to learn what are makefiles, when, why and how to use them (with variables, explicit and implicit rules) |
